@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmanmiqdada
+- 👋 Hi, I’m Salman Miqdad
 
 
 <!---
